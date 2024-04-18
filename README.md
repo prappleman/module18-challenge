@@ -13,10 +13,10 @@ The Social-Network API project aims to provide a robust and scalable API for a s
 - [Questions](#questions)
 
 ## Features
-<img src="assets\home.png" title="home">
-<img src="assets\home.png" title="home">
-<img src="assets\home.png" title="home">
-<img src="assets\home.png" title="home">
+<img src="assets\POST.png" title="POST">
+<img src="assets\GET.png" title="GET">
+<img src="assets\PUT.png" title="PUT">
+<img src="assets\DELETE.png" title="DELETE">
 
 1. **Server Initialization and Database Sync**: The application initializes the server and syncs Mongoose models with the MongoDB database upon invocation.
 2. **GET Routes for Users and Thoughts**: API endpoints provide formatted JSON data for fetching users and thoughts, facilitating data retrieval for the front-end.
