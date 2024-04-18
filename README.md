@@ -3,7 +3,7 @@
 ## Overview
 The Social-Network API project aims to provide a robust and scalable API for a social media startup. Leveraging the power of MongoDB as a NoSQL database and Mongoose for object modeling, this API enables handling large amounts of unstructured data typical in social networking platforms. By syncing Mongoose models to MongoDB, the server is started seamlessly, ensuring a smooth development experience. The API supports various functionalities essential for a social network, including user management, thoughts (posts), reactions to thoughts, and friend management.
 
-[Walkthough Video]((https://youtu.be/IeXJ-ZFQj1o))
+[Walkthough Video](https://youtu.be/IeXJ-ZFQj1o)
 
 ## Table of Contents
 - [Overview](#overview)
